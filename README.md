@@ -1,16 +1,16 @@
-### Hi there 👋
+QuestEMPIRE V1.0.3.4
 
-<!--
-**QuestEMPIRE/QuestEMPIRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Installation guide:
 
-Here are some ideas to get you started:
+Step 1: Run QuestEmpire.bat
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Step 2: Select mod files
+
+Step 3: Connect quest with (DATA) Cable.
+
+Step 4: Do not unplug quest until loading is done.
+
+Step 5: Start your game and if you have a mod select tab (For example, BONELAB) Enable all the mods that you just
+Downloaded.
+
+Done.

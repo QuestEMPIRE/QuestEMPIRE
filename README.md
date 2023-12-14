@@ -1,5 +1,9 @@
 QuestEMPIRE V1.0.3.4
 
+Mod/Patching framework for Android based quest devices.
+
+Made by the QuestEMPIRE Team.
+
 Installation guide:
 
 Step 1: Run QuestEmpire.bat
